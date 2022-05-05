@@ -1,0 +1,20 @@
+/* Creat Media */
+@media (max-width: 767px) {
+  .ll > img {
+    width: 60px;
+  }
+  .body-left {
+    position: absolute;
+    top: 800px;
+    left: 35vh;
+  }
+  .body-rehit {
+    position: absolute;
+    /* top: 00px; */
+    left: 15%;
+  }
+  #fill-left {
+    margin-left: 10vh;
+  }
+}
+/*# sourceMappingURL=media.css.map */
